@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <CLKSingletons/CLKSingletons.h>
+#import "CLKSingletons.h"
 
 @interface CLKSingletonManager : NSObject
 
