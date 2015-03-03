@@ -1,6 +1,6 @@
 # CLKSingletons
 
-CLKSingletons provides an elegant macro for declaring singletons in your iOS app.
+CLKSingletons provides an elegant macro for declaring singletons in your iOS app.  It's thread-safe and requires no boilerplate
 
 It also provide tools to manage all of your singleton instances collectively, including KVOing on their properties and destroying them individually or all together.
 
